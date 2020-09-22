@@ -5,9 +5,6 @@
     <!-- Tabs Titles -->
     <div class="wrapper fadeInDown">
   <div id="formContent">
-  <div id="new">
-  <div id="new1">
-  
   <br> <br>
   <div class="text-center mb-5">
   <h3> <span style="color:#9B5DE5">  
@@ -25,7 +22,7 @@
 
   </div>
 </div>
-</div>
+
  
   <div class="row">
     <div class="col-md-4 p-4">
@@ -89,7 +86,6 @@
         </div>
       </div>
     </div>
-    </div>
   </div>
 </div>
 <style>
@@ -152,39 +148,6 @@ h5 {
   -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
   box-shadow: 0 30px 60px 0 rgba(0,0,0,0.1);
   text-align: center;
-}
-#formContent {
-
-  background: #1B4F72;
-  padding: 30px;
-  width: 90%;
-  max-width: 800px;
-  position: relative;
-  padding: 0px;
-  -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
-  box-shadow: 0 30px 60px 0 rgba(0,0,0,0.1);
-  text-align: left;
-}
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-
-
-#new1 {
-  -webkit-border-radius: 10px 10px 10px 10px;
-  border-radius: 10px 10px 10px 10px;
-background: #1B4F72;
-padding: 30px;
-width: 100%;
-max-width: 800px;
-position: relative;
-padding: 0px;
--webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.1);
-text-align: left;
 }
 
 #formFooter {
